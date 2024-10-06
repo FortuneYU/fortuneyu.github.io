@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>My First Blog</title>
+    <url>/2024/10/06/My-First-Blog/</url>
+    <content><![CDATA[<p>This is my first blog.<br>光的波粒二象性</p>
+<h2 id="hexo-asset-image插入图片不显示的问题解决"><a href="#hexo-asset-image插入图片不显示的问题解决" class="headerlink" title="&#x2F;hexo-asset-image插入图片不显示的问题解决"></a>&#x2F;hexo-asset-image插入图片不显示的问题解决</h2><p>按照下面文章，<br><a class="link" href="https://blog.csdn.net/McNeeley/article/details/131276010">https://blog.csdn.net/McNeeley/article/details/131276010<i class="fas fa-external-link-alt"></i></a></p>
+<p>显示结果如下：<br>图片1<br><img src="/./My-First-Blog/1.png"><br>图片2<br><img src="/./My-First-Blog/2.png"></p>
+<p>正确插入图片方法如下：<br>需要把日期也添加进来, 才可以正常显示！！！<br>图片1<br><img src="/2024/10/06/My-First-Blog/1.png"><br>图片2<br><img src="/2024/10/06/My-First-Blog/2.png"></p>
+<h2 id="下面的文章给了一个新的方法-new-method"><a href="#下面的文章给了一个新的方法-new-method" class="headerlink" title="下面的文章给了一个新的方法 new method"></a>下面的文章给了一个新的方法 new method</h2><p><a class="link" href="https://www.cnblogs.com/Jesee/p/11234387.html">https://www.cnblogs.com/Jesee/p/11234387.html<i class="fas fa-external-link-alt"></i></a></p>
+<img src="/2024/10/06/My-First-Blog/1.png" class title="This is an test image">
+
+<img src="/2024/10/06/My-First-Blog/2.png" class title="This is an test image">
+
+
+<h2 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h2><p><img src="/2024/10/06/My-First-Blog/code.png"></p>
+<img src="/2024/10/06/My-First-Blog/code.png" class title="This is an test image">
+
+
+
+<h2 id="hexo-命令"><a href="#hexo-命令" class="headerlink" title="hexo 命令"></a>hexo 命令</h2><p>hexo cl  #清除</p>
+<p>hexo generate # 生成页面</p>
+<p>hexo serve # 启动hexo服务器</p>
+<p>hexo g -d # 更新到github</p>
+<p>** 如果页面没有更新，尝试清除一下浏览器的cookie缓存</p>
+<p>hexo generate 之后，会在hexo&#x2F;public&#x2F;2024&#x2F;10&#x2F;06&#x2F;My-First-Blog&#x2F;文件夹下，生成相关的index.html页面以及相关的图片附件<br><img src="/2024/10/06/My-First-Blog/publicFolder.png"></p>
+<h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><p>CSDN 杂货铺 | 使用 Github Pages 和 Hexo 搭建自己的独立博客<br><a class="link" href="https://lalayouyi.blog.csdn.net/article/details/137103772?fromshare=blogdetail&sharetype=blogdetail&sharerId=137103772&sharerefer=PC&sharesource=weixin_44231089&sharefrom=from_link">https://lalayouyi.blog.csdn.net/article/details/137103772?fromshare=blogdetail&amp;sharetype=blogdetail&amp;sharerId=137103772&amp;sharerefer=PC&amp;sharesource=weixin_44231089&amp;sharefrom=from_link<i class="fas fa-external-link-alt"></i></a></p>
+<p>解决Hexo图片无法显示问题<br><a class="link" href="https://www.cnblogs.com/Jesee/p/11234387.html">https://www.cnblogs.com/Jesee/p/11234387.html<i class="fas fa-external-link-alt"></i></a></p>
+<p>github hexo-asset-image<br><a class="link" href="https://github.com/xcodebuild/hexo-asset-image/issues/44">https://github.com/xcodebuild/hexo-asset-image/issues/44<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Test Page</title>
+    <url>/2024/10/06/Test-Page/</url>
+    <content><![CDATA[<h1 id="markdown语法"><a href="#markdown语法" class="headerlink" title="markdown语法"></a>markdown语法</h1><h2 id="符号-是标题"><a href="#符号-是标题" class="headerlink" title="符号#是标题"></a>符号#是标题</h2><p>test<br>从苏格拉底到萨特及其后</p>
+<p>这是一个图片</p>
+<p><img src="/2024/10/06/Test-Page/philosophy.jpg"></p>
+]]></content>
+      <categories>
+        <category>随心写写</category>
+      </categories>
+      <tags>
+        <tag>文学哲思</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Who Am I</title>
+    <url>/2024/10/06/Who-Am-I/</url>
+    <content><![CDATA[<p>This is FortuneYU </p>
+<p>我不是程序员，只是一个工程师。</p>
+<p>爱好机器人技术，自动驾驶技术，绘画。</p>
+<p>很想弄明白社会的运行规律，所以也对经济和金融感兴趣。</p>
+<p>也想多了解一下历史和哲学。<br>历史虽然不会重复，但历史总是以某种相似的方式重现。<br>哲学的思考是人类最终极的问题。</p>
+<p>Hello， who is that?</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/10/05/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/writing.html">Writing<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/server.html">Server<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/generating.html">Generating<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+  </entry>
+</search>
